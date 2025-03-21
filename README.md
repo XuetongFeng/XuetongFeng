@@ -1,5 +1,5 @@
 # Hi there 👋
-## This is Xuetong Feng
+## I'm Xuetong Feng
 
 - 🔭 Working：Researcher at King's College London
 - 🌱 Research Field：GNN, DeepLearning, Fluids
