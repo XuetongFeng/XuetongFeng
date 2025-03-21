@@ -1,5 +1,9 @@
 ## Hi there 👋
+# This is Xuetong Feng
 
+- 🔭 Working：Researcher at King's College London
+- 🌱 Research Field：GNN, DeepLearning, Fluids
+- 📫 Contact Me：xuetong.xf@gmail.com
 <!--
 **XuetongFeng/XuetongFeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
