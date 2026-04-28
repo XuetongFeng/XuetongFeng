@@ -28,19 +28,15 @@ I am especially interested in building models that help machines understand stru
 
 ## Selected Projects
 
-I am currently organizing my public projects. More work will be added here soon.
+### [Monocular Depth Estimation SOTA](https://github.com/XuetongFeng/monocular-depth-sota)
 
-<!--
-Example format:
+A curated research tracker for monocular depth estimation, metric depth, and spatial intelligence papers.
 
-### Project Name
+- Focus: Depth Pro, Depth Anything, Depth Anything V2, Metric3D, UniDepth, Marigold, GeoWizard, VGGT
+- What I added: structured paper database, SOTA taxonomy, model-family notes, and an evaluation checklist
+- Goal: connect monocular depth estimation to practical 3D scene understanding and spatial intelligence
 
-Short one-line description of what the project does and why it matters.
-
-- Built with: Python, PyTorch
-- Focus: computer vision / GNN / spatial intelligence
-- Repository: https://github.com/XuetongFeng/your-project
--->
+More projects will be added progressively, with each repository focused on one high-quality research direction.
 
 ## GitHub Stats
 
