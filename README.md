@@ -52,6 +52,22 @@ A research copy of the Depth Anything V2 codebase, extended for depth foundation
 - What I added: upstream README preservation, family map, model-selection notes, comparison plan, evaluation manifest, and metadata validation script
 - Goal: understand how Depth Anything connects scalable monocular depth to spatial intelligence
 
+### [Metric3D Research](https://github.com/XuetongFeng/metric3d-research)
+
+A research copy of the Metric3D / Metric3Dv2 codebase, extended for metric geometry study.
+
+- Focus: zero-shot metric depth, surface normals, camera ambiguity, and single-image metrology
+- What I added: upstream README preservation, metric geometry notes, comparison plan, evaluation manifest, and metadata validation script
+- Goal: study metric 3D prediction as a bridge from monocular images to spatial intelligence
+
+### [VGGT Research](https://github.com/XuetongFeng/vggt-research)
+
+A research copy of VGGT, extended for visual geometry and spatial intelligence study.
+
+- Focus: cameras, depth maps, point maps, 3D tracks, COLMAP export, and multi-view scene geometry
+- What I added: upstream README preservation, spatial intelligence notes, comparison plan, evaluation manifest, and metadata validation script
+- Goal: connect depth estimation projects to broader scene-level 3D understanding
+
 More projects will be added progressively, with each repository focused on one high-quality research direction.
 
 ## GitHub Stats
