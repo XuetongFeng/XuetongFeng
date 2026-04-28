@@ -36,6 +36,14 @@ A curated research tracker for monocular depth estimation, metric depth, and spa
 - What I added: structured paper database, SOTA taxonomy, model-family notes, and an evaluation checklist
 - Goal: connect monocular depth estimation to practical 3D scene understanding and spatial intelligence
 
+### [Depth Pro Research](https://github.com/XuetongFeng/depth-pro-research)
+
+A focused research wrapper around Apple's Depth Pro for sharp zero-shot metric monocular depth estimation.
+
+- Focus: metric depth, focal length estimation, boundary quality, and unknown-camera images
+- What I added: evaluation manifest, official baseline summary, comparison plan, and metadata validation script
+- Goal: understand when Depth Pro is the right model for spatial intelligence use cases
+
 More projects will be added progressively, with each repository focused on one high-quality research direction.
 
 ## GitHub Stats
