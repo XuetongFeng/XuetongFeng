@@ -44,6 +44,14 @@ A research copy of Apple's Depth Pro codebase, extended for sharp zero-shot metr
 - What I added: upstream README preservation, evaluation manifest, official baseline summary, comparison plan, and metadata validation script
 - Goal: understand when Depth Pro is the right model for spatial intelligence use cases
 
+### [Depth Anything Research](https://github.com/XuetongFeng/depth-anything-research)
+
+A research copy of the Depth Anything V2 codebase, extended for depth foundation model study.
+
+- Focus: relative depth, metric-depth extension, Depth Anything family, video depth, and deployment tradeoffs
+- What I added: upstream README preservation, family map, model-selection notes, comparison plan, evaluation manifest, and metadata validation script
+- Goal: understand how Depth Anything connects scalable monocular depth to spatial intelligence
+
 More projects will be added progressively, with each repository focused on one high-quality research direction.
 
 ## GitHub Stats
