@@ -38,10 +38,10 @@ A curated research tracker for monocular depth estimation, metric depth, and spa
 
 ### [Depth Pro Research](https://github.com/XuetongFeng/depth-pro-research)
 
-A focused research wrapper around Apple's Depth Pro for sharp zero-shot metric monocular depth estimation.
+A research copy of Apple's Depth Pro codebase, extended for sharp zero-shot metric monocular depth estimation study.
 
 - Focus: metric depth, focal length estimation, boundary quality, and unknown-camera images
-- What I added: evaluation manifest, official baseline summary, comparison plan, and metadata validation script
+- What I added: upstream README preservation, evaluation manifest, official baseline summary, comparison plan, and metadata validation script
 - Goal: understand when Depth Pro is the right model for spatial intelligence use cases
 
 More projects will be added progressively, with each repository focused on one high-quality research direction.
